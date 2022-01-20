@@ -5,7 +5,7 @@
 #include "../com/comFunc.h"
 int main()
 {
-	int x =  func1(1);
+	int x =  func2(1);
     std::cout << "Hello World test app1: "<<x <<"\n";
 }
 
