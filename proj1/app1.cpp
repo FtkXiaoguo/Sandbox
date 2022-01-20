@@ -5,8 +5,8 @@
 #include "../com/comFunc.h"
 int main()
 {
-	int x =  func2(1);
-    std::cout << "Hello World test app1: "<<x <<"\n";
+	int x =  func3(1);
+    std::cout << "Hello World test111 app1: "<<x <<"\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
