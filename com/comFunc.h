@@ -1,6 +1,6 @@
 #pragma once
 
-int func1(int x)
+int func2(int x)
 {
 	return x * 2;
 }
