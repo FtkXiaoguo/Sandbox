@@ -5,7 +5,7 @@
 #include "../com/comFunc.h"
 int main()
 {
-	int xy =  func1(1);
+	int xy =  func2(1);
     std::cout << "Hello World +xxx app2: "<< xy <<"\n";
 }
 
