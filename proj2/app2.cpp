@@ -6,7 +6,7 @@
 int main()
 {
 	int xy =  func2(1);
-    std::cout << "Hello World +xxx app2: "<< xy <<"\n";
+    std::cout << "Hello World +xxx+yy app2: "<< xy <<"\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
