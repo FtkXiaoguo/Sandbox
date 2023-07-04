@@ -7,7 +7,7 @@ int main()
 {
 	int xy =  func3(1);
 
-    std::cout << "Hello World +xxx+yy app2: "<< xy <<"\n";
+    std::cout << "Hello World +xxx+yy app2-22: "<< xy <<"\n";
 
 }
 
